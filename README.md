@@ -21,4 +21,4 @@ PS: It is not attached to your session but to the computer. So if you change fro
 And of course if you log int into another pc, you can put the same commands it will also work !
 
 ## Credit
-ZaymonFC was the one who made the website.
+ZaymonFC was the one who made the website. Here is his [github link](https://github.com/ZaymonFC).
