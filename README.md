@@ -13,3 +13,5 @@ defaults write -g InitialKeyRepeat -int 10
 ```
 defaults write -g KeyRepeat -int 2
 ```
+
+Finally, restart your pc or log out of the session and it will be affected. Enjoy !
