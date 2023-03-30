@@ -19,3 +19,6 @@ Finally, log out of the session and it will be affected. Enjoy !
 
 PS: It is not attached to your session but to the computer. So if you change from a computer to another it won't work. But if you are tired to change the settings everytime you log in on the same pc, well you won't have to anymore. 
 And of course if you log int into another pc, you can put the same commands it will also work !
+
+## Credit
+ZaymonFC was the one who made the website.
