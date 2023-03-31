@@ -1,4 +1,4 @@
-# Change keyboard speed on your 42 mac.
+# Change keyboard/mouse speed on your 42 mac.
 
 ## If you are suffering from the slowness of the 42 keyboard, this is for you !
 
@@ -37,6 +37,15 @@ If you swap from a computer to another, you have at least to log out once. But I
 
 ## Speed values generator
 Here is a website that will help you find the right values for you without having to log out the computer each time you want to see the changes -> [keyboardSpeedCalculator](https://mac-key-repeat.zaymon.dev/)
+
+## Change mouse speed + scroll speed
+It works exacly like the keyboard but with theses commands. There is no generator to get the values, you will have to log out to change different values...sorry.
+
+```
+echo "defaults write -g com.apple.mouse.scaling 5.0" >> ~/.zshrc;
+echo "defaults write -g com.apple.scrollwheel.scaling -float 10" >> ~/.zshrc;
+zsh;
+```
 
 ## Credit
 ZaymonFC was the one who made the website. Here is his [github link](https://github.com/ZaymonFC).
